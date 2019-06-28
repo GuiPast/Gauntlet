@@ -1,0 +1,139 @@
+c:\users\ignacio iborra\documents\visual studio 2015\Projects\Gauntlet\Gauntlet\bin\Debug\Gauntlet.exe.config
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\bin\Debug\Gauntlet.exe.config
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\bin\Debug\libfreetype-6.dll
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\bin\Debug\libpng12-0.dll
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\bin\Debug\libpng12.dll
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\bin\Debug\SDL.dll
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\bin\Debug\SDL_image.dll
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\bin\Debug\SDL_mixer.dll
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\bin\Debug\SDL_ttf.dll
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\bin\Debug\Tao.Sdl.dll
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\bin\Debug\zlib1.dll
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\bin\Debug\Gauntlet.exe
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\bin\Debug\Gauntlet.pdb
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\obj\Debug\Gauntlet.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\obj\Debug\Gauntlet.exe
+C:\Users\Ignacio Iborra\Downloads\session01_solution\Gauntlet\Gauntlet\obj\Debug\Gauntlet.pdb
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\Gauntlet.exe.config
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\obj\Debug\Gauntlet.exe
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\obj\Debug\Gauntlet.pdb
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\imgs\dwarf.png
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\imgs\gauntlet_spritesheet.png
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\imgs\sorcerer.png
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\imgs\valkyrie.png
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\imgs\warrior.png
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\libfreetype-6.dll
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\libpng12-0.dll
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\libpng12.dll
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\SDL.dll
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\SDL_image.dll
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\SDL_mixer.dll
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\SDL_ttf.dll
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\Tao.Sdl.dll
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\zlib1.dll
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\Gauntlet.exe
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\Gauntlet.pdb
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\obj\Debug\Gauntlet.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\imgs\choose_player.png
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\imgs\game_over_screen.png
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\imgs\player_select_screen.png
+C:\Users\Ignacio Iborra\Downloads\session02_solution\Gauntlet\Gauntlet\bin\Debug\imgs\welcome_screen.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\Gauntlet.exe.config
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\obj\Debug\Gauntlet.exe
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\obj\Debug\Gauntlet.pdb
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\imgs\choose_player.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\imgs\dwarf.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\imgs\game_over_screen.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\imgs\gauntlet_spritesheet.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\imgs\player_select_screen.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\imgs\sorcerer.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\imgs\valkyrie.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\imgs\warrior.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\imgs\welcome_screen.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\libfreetype-6.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\libpng12-0.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\libpng12.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\SDL.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\SDL_image.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\SDL_mixer.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\SDL_ttf.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\Tao.Sdl.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\zlib1.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\Gauntlet.exe
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\Gauntlet.pdb
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\obj\Debug\Gauntlet.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\fonts\prince_valiant.ttf
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\sound\fire.wav
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\sound\song_a.mid
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\sound\song_b.mid
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\sound\song_c.mid
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\sound\title.mid
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\SDL_gfx.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\Gauntlet.exe.config
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\obj\Debug\Gauntlet.exe
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\obj\Debug\Gauntlet.pdb
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\imgs\choose_player.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\imgs\dwarf.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\imgs\game_over_screen.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\imgs\gauntlet_spritesheet.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\imgs\player_select_screen.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\imgs\sorcerer.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\imgs\valkyrie.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\imgs\warrior.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\imgs\welcome_screen.png
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\libfreetype-6.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\libpng12-0.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\libpng12.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\SDL.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\SDL_gfx.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\SDL_image.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\SDL_mixer.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\SDL_ttf.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\sound\fire.wav
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\sound\song_a.mid
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\sound\song_b.mid
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\sound\song_c.mid
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\sound\title.mid
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\Tao.Sdl.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\zlib1.dll
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\fonts\prince_valiant.ttf
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\Gauntlet.exe
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\bin\Debug\Gauntlet.pdb
+C:\Users\Ignacio Iborra\Desktop\Gauntlet_OK\Gauntlet\obj\Debug\Gauntlet.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\imgs\floor.jpg
+C:\Users\Ignacio Iborra\Desktop\Gauntlet\Gauntlet\bin\Debug\jpeg.dll
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\imgs\choose_player.png
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\imgs\dwarf.png
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\imgs\floor.jpg
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\imgs\game_over_screen.png
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\imgs\gauntlet_spritesheet.png
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\imgs\player_select_screen.png
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\imgs\sorcerer.png
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\imgs\valkyrie.png
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\imgs\warrior.png
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\imgs\welcome_screen.png
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\jpeg.dll
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\libfreetype-6.dll
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\libpng12-0.dll
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\libpng12.dll
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\SDL.dll
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\SDL_gfx.dll
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\SDL_image.dll
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\SDL_mixer.dll
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\SDL_ttf.dll
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\sound\fire.wav
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\sound\song_a.mid
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\sound\song_b.mid
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\sound\song_c.mid
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\sound\title.mid
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\Tao.Sdl.dll
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\zlib1.dll
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\fonts\prince_valiant.ttf
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\Gauntlet.exe.config
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\Gauntlet.exe
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\Gauntlet.pdb
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\obj\Debug\Gauntlet.csprojResolveAssemblyReference.cache
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\obj\Debug\Gauntlet.csproj.CoreCompileInputs.cache
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\obj\Debug\Gauntlet.exe
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\obj\Debug\Gauntlet.pdb
+C:\Users\Craw\Desktop\Visual Studio & Java\Visual Studio\Gauntlet\Gauntlet\bin\Debug\levels\level1.txt
